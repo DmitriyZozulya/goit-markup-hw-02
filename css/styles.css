@@ -24,7 +24,7 @@ ul {
 
  body {
    background-color: #fff;
-   color: var(--primary-text-color);
+   color: #434455;
 
    font-family: Roboto, sans-serif;
  }
@@ -37,8 +37,9 @@ ul {
     font-family: Raleway, sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     text-transform: uppercase;
+    letter-spacing: 0.03em;
 }
 
 .logo-two {
